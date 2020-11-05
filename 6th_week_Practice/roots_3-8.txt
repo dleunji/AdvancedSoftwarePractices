@@ -1,0 +1,5 @@
+The x : 0.500000 -0.000000 -0.523599
+Applying these Xs...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+The gap with the result of f3 : 0.000000

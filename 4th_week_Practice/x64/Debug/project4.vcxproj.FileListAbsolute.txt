@@ -1,0 +1,2 @@
+C:\Users\LEE EUN JI\Desktop\고급소프트웨어실습\4주차\project4_배포용\x64\Debug\project4.exe
+C:\Users\LEE EUN JI\Desktop\고급소프트웨어실습\4주차\project4_배포용\x64\Debug\project4.pdb

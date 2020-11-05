@@ -1,0 +1,495 @@
+The x : -2.307891 2.109371
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -2.307891 2.109371
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -2.307891 2.109371
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -2.307891 2.109371
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -2.410820 -0.093798
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -2.410820 -0.093798
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -2.410820 -0.093798
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -2.410820 -0.093798
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -2.410820 -0.093798
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -2.410820 -0.093798
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -2.410820 -0.093798
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -2.307891 2.109371
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -2.307891 2.109371
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -2.307891 2.109371
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -2.307891 2.109371
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -2.410820 -0.093798
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -2.410820 -0.093798
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -2.410820 -0.093798
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -2.410820 -0.093798
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -2.410820 -0.093798
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -2.410820 -0.093798
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -2.410820 -0.093798
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -2.307891 2.109371
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -2.307891 2.109371
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -2.307891 2.109371
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -2.307891 2.109371
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -2.410820 -0.093798
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -2.410820 -0.093798
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -2.410820 -0.093798
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -2.410820 -0.093798
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -2.410820 -0.093798
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -2.410820 -0.093798
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -2.410820 -0.093798
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -0.285560 2.380150
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -0.285560 2.380150
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -0.285560 2.380150
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -0.285560 2.380150
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -0.285560 2.380150
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -0.049321 -0.408389
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -0.049321 -0.408389
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -0.049321 -0.408389
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -0.049321 -0.408389
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -0.049321 -0.408389
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -0.049321 -0.408389
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -0.285560 2.380150
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -0.285560 2.380150
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -0.285560 2.380150
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -0.285560 2.380150
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -0.285560 2.380150
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -0.049321 -0.408389
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -0.049321 -0.408389
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -0.049321 -0.408389
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -0.049321 -0.408389
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -0.049321 -0.408389
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -0.049321 -0.408389
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -0.285560 2.380150
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -0.285560 2.380150
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -0.285560 2.380150
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -0.285560 2.380150
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -0.049321 -0.408389
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -0.049321 -0.408389
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -0.049321 -0.408389
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -0.049321 -0.408389
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -0.049321 -0.408389
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -0.049321 -0.408389
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : -0.049321 -0.408389
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : 2.590859 2.692223
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : 2.590859 2.692223
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : 2.590859 2.692223
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : 2.590859 2.692223
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : 2.462734 -0.679557
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : 2.462734 -0.679557
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : 2.462734 -0.679557
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : 2.462734 -0.679557
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : 2.462734 -0.679557
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : 2.462734 -0.679557
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : 2.462734 -0.679557
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : 2.590859 2.692223
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : 2.590859 2.692223
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : 2.590859 2.692223
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : 2.590859 2.692223
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : 2.462734 -0.679557
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : 2.462734 -0.679557
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : 2.462734 -0.679557
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : 2.462734 -0.679557
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : 2.462734 -0.679557
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : 2.462734 -0.679557
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : 2.462734 -0.679557
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : 2.590859 2.692223
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : 2.590859 2.692223
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : 2.590859 2.692223
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : 2.590859 2.692223
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : 2.462734 -0.679557
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : 2.462734 -0.679557
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : 2.462734 -0.679557
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : 2.462734 -0.679557
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : 2.462734 -0.679557
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : 2.462734 -0.679557
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+
+The x : 2.462734 -0.679557
+Applying X and Y...
+The gap with the result of f1 : 0.000000
+The gap with the result of f2 : 0.000000
+

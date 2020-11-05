@@ -1,0 +1,5 @@
+The x : -4.715734 3.846289 1.627917
+Applying these Xs...
+The gap with the result of f1 : 0.153791
+The gap with the result of f2 : 0.196176
+The gap with the result of f3 : 0.627922
